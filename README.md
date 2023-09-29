@@ -1,2 +1,2 @@
 # css1st
-![nhi dekh rha](https://github.com/som02esh/css1st/blob/39ade9ddd54e4a2ab393210e14664b33410741d2/vizag2.png)
+![vizag2](https://github.com/som02esh/css1st/assets/106095040/ae1b7f57-a779-498a-b78a-5078a0ee0de3)
